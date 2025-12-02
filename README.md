@@ -1,84 +1,71 @@
-<!-- ========================= -->
-<!-- 🔵 GRADIENT PURPLE-BLUE BANNER -->
-<!-- ========================= -->
+<h1 align="center">Hi, I'm Keshu Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/9yE5CBw.png" width="100%" alt="Gradient Developer Banner" />
+  <strong>Full Stack Developer • MERN Stack Engineer • Tech Intern at Webisdom</strong>
 </p>
-
-<!-- ========================= -->
-<!-- ANIMATED TYPING INTRO -->
-<!-- ========================= -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=A66CFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Keshu+Kumar+👋;Full+Stack+Developer;MERN+Stack+Engineer;Tech+Intern+at+Webisdom;Open+Source+Contributor" />
-</h1>
 
 ---
 
-# 🌌 **About Me**
-I am a passionate **Full Stack Developer** specializing in building high-performance web applications using the **MERN Stack**.
+## 👨‍💻 About Me
 
-✨ **What I Do**
-- 🔥 Create modern, scalable **frontend + backend** MERN applications  
-- ⚡ Build **real-time** systems using Socket.IO & WebRTC  
-- 🚀 Work on **full-project architecture, UI, auth, databases**  
-- 💼 Currently a **Tech Intern @ Webisdom**  
-- 📦 Owner of **58+ GitHub repositories**  
+I am a passionate **Full Stack Developer** who enjoys building fast, scalable and user-friendly applications.
+
+- 🔥 MERN Stack Specialist  
+- 💼 Tech Intern at **Webisdom**  
+- 📦 Built **58+ GitHub Repositories**  
+- 🚀 Experience with real-time apps (WebRTC + Socket.IO)  
 - 🌱 Learning **DevOps, Docker, AWS**  
-- 💡 Focused on clean UI, optimum performance & real-world problem solving  
-
-🔗 **GitHub Profile:** https://github.com/KESHUKUMAR1909
+- 🎯 Focus on clean UI + clean backend architecture  
 
 ---
 
-# 📞 **Contact**
-- 📧 Email: **keshukumar1909@gmail.com**  
-- 📱 Mobile: **9340179767**
+## 📬 Contact Me
+
+- **Email:** keshukumar1909@gmail.com  
+- **Mobile:** 9340179767  
+- **GitHub:** https://github.com/KESHUKUMAR1909
 
 ---
 
-# 🛠️ **Tech Stack (Dark Mode Icons)**
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,ts,js,html,css,tailwind,bootstrap,git,github,linux,docker,aws,firebase,figma,postgres,mysql&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,redux,git,github,bootstrap,linux,docker,aws,firebase,figma,mysql,postgres" />
 </p>
 
 ---
 
-# 🏆 **GitHub Trophies (Purple Matrix Theme)**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KESHUKUMAR1909&theme=tokyonight&no-frame=true&row=1&column=7" />
+## 📊 GitHub Stats
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KESHUKUMAR1909&show_icons=true&theme=default&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KESHUKUMAR1909&theme=default&hide_border=false" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KESHUKUMAR1909&layout=compact&theme=default" />
 </p>
 
 ---
 
-# 📊 **GitHub Stats – Dark Purple Theme**
+## ⭐ Featured Projects
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KESHUKUMAR1909&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KESHUKUMAR1909&theme=tokyonight&hide_border=false" />
-</p>
+- MERN Authentication System  
+- Real-Time Video Calling (WebRTC + Socket.IO)  
+- Event/Booking Management System  
+- Full MERN E-commerce App  
+- Portfolio Builder Tool  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KESHUKUMAR1909&layout=compact&theme=tokyonight&hide_border=false" />
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="mailto:keshukumar1909@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://github.com/KESHUKUMAR1909"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 </p>
 
 ---
 
-# 🐍 **Contribution Snake (Dark Mode)**  
-<p align="center">
-  <img src="https://github.com/KESHUKUMAR1909/KESHUKUMAR1909/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 💎 **Highlighted Projects**
-
-```md
-🔹 MERN Authentication System  
-🔹 Real-Time Video Calling (WebRTC + Socket.IO)  
-🔹 Full MERN E-commerce Platform  
-🔹 Event & Booking Management System  
-🔹 Professional Portfolio Builder Tool  
-🔹 Chat, Feed & Social Media Features  
+<p align="center">✨ Thanks for visiting! Feel free to explore my repositories. ✨</p>
