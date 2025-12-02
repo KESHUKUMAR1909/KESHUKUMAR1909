@@ -1,71 +1,60 @@
-<h1 align="center">Hi, I'm Keshu Kumar 👋</h1>
+# 👋 Hi, I'm Keshu Kumar  
+### Full Stack Developer | MERN Stack | Java Spring/Spring Boot | Cloud & DevOps Learner  
 
-<p align="center">
-  <strong>Full Stack Developer • MERN Stack Engineer • Tech Intern at Webisdom</strong>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Full Stack Developer** who enjoys building fast, scalable and user-friendly applications.
-
-- 🔥 MERN Stack Specialist  
-- 💼 Tech Intern at **Webisdom**  
-- 📦 Built **58+ GitHub Repositories**  
-- 🚀 Experience with real-time apps (WebRTC + Socket.IO)  
-- 🌱 Learning **DevOps, Docker, AWS**  
-- 🎯 Focus on clean UI + clean backend architecture  
+I’m a passionate **Full Stack Developer** currently working as a **Tech Intern at Webisdom**.  
+I focus on building fast, scalable, user-friendly applications using modern technologies.
 
 ---
 
-## 📬 Contact Me
-
-- **Email:** keshukumar1909@gmail.com  
-- **Mobile:** 9340179767  
-- **GitHub:** https://github.com/KESHUKUMAR1909
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,redux,git,github,bootstrap,linux,docker,aws,firebase,figma,mysql,postgres" />
-</p>
+## 🧠 About Me  
+- 🔧 Full-stack development using **MERN + Spring Boot**  
+- 🧩 Love solving real-world problems with clean code  
+- 💼 Currently working as **Tech Intern @ Webisdom**  
+- 💻 Built **58+ repositories** so far — constantly improving & exploring  
+- 🚀 Passionate about full-stack engineering, backend architecture & cloud systems  
+- 🌐 Explore more: **[My GitHub Profile](https://github.com/KESHUKUMAR1909)**  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
+Here are the technologies I work with:
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KESHUKUMAR1909&show_icons=true&theme=default&hide_border=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KESHUKUMAR1909&theme=default&hide_border=false" />
-</p>
+### **Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KESHUKUMAR1909&layout=compact&theme=default" />
-</p>
+### **Backend**
+- Node.js  
+- Express.js  
+- Java  
+- Spring & Spring Boot  
 
----
+### **Database**
+- MongoDB  
+- SQL Basics  
 
-## ⭐ Featured Projects
-
-- MERN Authentication System  
-- Real-Time Video Calling (WebRTC + Socket.IO)  
-- Event/Booking Management System  
-- Full MERN E-commerce App  
-- Portfolio Builder Tool  
-
----
-
-## 🌐 Socials
-
-<p align="left">
-  <a href="mailto:keshukumar1909@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://github.com/KESHUKUMAR1909"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-</p>
+### **DevOps / Cloud / Tools**
+- AWS  
+- Docker  
+- Git & GitHub  
 
 ---
 
-<p align="center">✨ Thanks for visiting! Feel free to explore my repositories. ✨</p>
+## 🤝 Connect With Me  
+📧 Email: **keshukumar1909@gmail.com**  
+📱 Mobile: **9340179767**  
+
+---
+
+## ✨ What I Believe  
+> “Build. Break. Learn. Improve.”  
+Coding is not just a skill—it's a mindset of growth and curiosity.
+
+---
+
+## 🎯 Current Focus  
+- Strengthening backend architecture  
+- Deployments using AWS  
+- Working on scalable MERN applications  
