@@ -1,38 +1,44 @@
-<!-- Cyberpunk Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Keshu+Kumar+👋;Full+Stack+Developer;MERN+Stack+Specialist;Tech+Intern+at+Webisdom;Open+Source+Contributor;Welcome+to+my+GitHub+Universe+🚀" />
-</h1>
+<!-- ========================= -->
+<!-- 🔵 GRADIENT PURPLE-BLUE BANNER -->
+<!-- ========================= -->
 
-<!-- Neon Divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡-Full%20Stack%20Developer-0ff?style=for-the-badge&logo=react&logoColor=0ff&labelColor=000" />
-  <img src="https://img.shields.io/badge/🔥-MERN%20Stack%20Specialist-ff00ff?style=for-the-badge&logo=node.js&logoColor=ff00ff&labelColor=000" />
-  <img src="https://img.shields.io/badge/🚀-Tech%20Intern%20at%20Webisdom-00ff99?style=for-the-badge&labelColor=000" />
+  <img src="https://i.imgur.com/9yE5CBw.png" width="100%" alt="Gradient Developer Banner" />
 </p>
 
+<!-- ========================= -->
+<!-- ANIMATED TYPING INTRO -->
+<!-- ========================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=A66CFF&center=true&vCenter=true&width=900&lines=Hi+I'm+Keshu+Kumar+👋;Full+Stack+Developer;MERN+Stack+Engineer;Tech+Intern+at+Webisdom;Open+Source+Contributor" />
+</h1>
+
 ---
 
-# 🌌 **About Me – Dark Mode Edition**
-I am a passionate **Full-Stack Developer** who loves creating high-quality web applications that are fast, clean, and scalable.
+# 🌌 **About Me**
+I am a passionate **Full Stack Developer** specializing in building high-performance web applications using the **MERN Stack**.
 
-✨ **Current Status:**  
-- 🧑‍💻 Tech Intern at **Webisdom**  
-- 💻 Built **58+ Repositories**  
-- 🔥 Working on **advanced MERN, WebRTC, Cloud, Sockets**  
+✨ **What I Do**
+- 🔥 Create modern, scalable **frontend + backend** MERN applications  
+- ⚡ Build **real-time** systems using Socket.IO & WebRTC  
+- 🚀 Work on **full-project architecture, UI, auth, databases**  
+- 💼 Currently a **Tech Intern @ Webisdom**  
+- 📦 Owner of **58+ GitHub repositories**  
 - 🌱 Learning **DevOps, Docker, AWS**  
-- 💡 Obsessed with **clean UI + optimized backend**  
-- 🛰️ Always exploring new technologies  
-- ⭐ GitHub: **https://github.com/KESHUKUMAR1909**
+- 💡 Focused on clean UI, optimum performance & real-world problem solving  
+
+🔗 **GitHub Profile:** https://github.com/KESHUKUMAR1909
 
 ---
 
-# 🔮 Contact  
-- ✉️ **Email:** `keshukumar1909@gmail.com`  
-- 📱 **Mobile:** `9340179767`
+# 📞 **Contact**
+- 📧 Email: **keshukumar1909@gmail.com**  
+- 📱 Mobile: **9340179767**
 
 ---
 
-# ⚡ Tech Stack (Neon Icons)
+# 🛠️ **Tech Stack (Dark Mode Icons)**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,ts,js,html,css,tailwind,bootstrap,git,github,linux,docker,aws,firebase,figma,postgres,mysql&theme=dark" />
@@ -40,18 +46,17 @@ I am a passionate **Full-Stack Developer** who loves creating high-quality web a
 
 ---
 
-# 🏆 GitHub Achievements (Dark Neon)
-
+# 🏆 **GitHub Trophies (Purple Matrix Theme)**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KESHUKUMAR1909&theme=matrix&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KESHUKUMAR1909&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 🚀 GitHub Stats — Dark Neon Mode
+# 📊 **GitHub Stats – Dark Purple Theme**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KESHUKUMAR1909&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KESHUKUMAR1909&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=KESHUKUMAR1909&theme=tokyonight&hide_border=false" />
 </p>
 
@@ -61,20 +66,19 @@ I am a passionate **Full-Stack Developer** who loves creating high-quality web a
 
 ---
 
-# 🐍 Matrix Contribution Snake  
+# 🐍 **Contribution Snake (Dark Mode)**  
 <p align="center">
   <img src="https://github.com/KESHUKUMAR1909/KESHUKUMAR1909/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-# 💎 Highlight Projects (Dark Cyber Theme)
+# 💎 **Highlighted Projects**
 
-👉 Replace links with your actual repositories  
 ```md
 🔹 MERN Authentication System  
-🔹 Real-Time Video Calling (WebRTC + Socket.io)  
-🔹 E-Commerce App (Full MERN)  
-🔹 Event/Booking System  
-🔹 Chat + Feed + Dashboard Projects  
-🔹 Portfolio Builder Tool  
+🔹 Real-Time Video Calling (WebRTC + Socket.IO)  
+🔹 Full MERN E-commerce Platform  
+🔹 Event & Booking Management System  
+🔹 Professional Portfolio Builder Tool  
+🔹 Chat, Feed & Social Media Features  
